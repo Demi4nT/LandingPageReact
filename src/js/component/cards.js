@@ -6,7 +6,7 @@ function Card() {
 		<div>
 			<div className="container-fluid card-group">
 				<div className="card">
-					<img src={Preview} class="card-img-top" alt="..." />
+					<img src={Preview} className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
@@ -19,13 +19,13 @@ function Card() {
 								Last updated 3 mins ago
 							</small>
 						</p>
-						<button type="button" class="btn btn-primary">
+						<button type="button" className="btn btn-primary">
 							Find out more!
 						</button>
 					</div>
 				</div>
 				<div className="card">
-					<img src={Preview} class="card-img-top" alt="..." />
+					<img src={Preview} className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
@@ -37,13 +37,13 @@ function Card() {
 								Last updated 3 mins ago
 							</small>
 						</p>
-						<button type="button" class="btn btn-primary">
+						<button type="button" className="btn btn-primary">
 							Find out more!
 						</button>
 					</div>
 				</div>
 				<div className="card">
-					<img src={Preview} class="card-img-top" alt="..." />
+					<img src={Preview} className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
@@ -57,13 +57,13 @@ function Card() {
 								Last updated 3 mins ago
 							</small>
 						</p>
-						<button type="button" class="btn btn-primary">
+						<button type="button" className="btn btn-primary">
 							Find out more!
 						</button>
 					</div>
 				</div>
 				<div className="card">
-					<img src={Preview} class="card-img-top" alt="..." />
+					<img src={Preview} className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
@@ -77,7 +77,7 @@ function Card() {
 								Last updated 3 mins ago
 							</small>
 						</p>
-						<button type="button" class="btn btn-primary">
+						<button type="button" className="btn btn-primary">
 							Find out more!
 						</button>
 					</div>
