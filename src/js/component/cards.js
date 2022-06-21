@@ -4,7 +4,7 @@ import Preview from "../../img/no-preview-available.png";
 function Card() {
 	return (
 		<div>
-			<div className="card-group">
+			<div className="container-fluid card-group">
 				<div className="card">
 					<img src={Preview} class="card-img-top" alt="..." />
 					<div className="card-body">

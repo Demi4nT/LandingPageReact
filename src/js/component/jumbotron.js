@@ -3,7 +3,7 @@ import React from "react";
 function Jumbotron() {
 	return (
 		<div>
-			<div class="col-md-6">
+			<div class="container-fluid">
 				<div class="h-100 p-5 bg-light border rounded-3">
 					<h2>A warm welcome!</h2>
 					<p>
